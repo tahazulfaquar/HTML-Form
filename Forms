@@ -1,0 +1,30 @@
+<html>
+<body
+insert background="file:///home/tm/Pictures/Wallpapers/mountains_clouds_landscape_145516_1366x768.jpg"
+
+</body>
+              <center><b><font size="90 "style="color:darkblue;">G</b><b style="color:darkblue;">O</b><b style="color:darkblue;">O</b><b style="color:darkblue;">G</b><b style="color:darkblue;">L</b><b style="color:darkblue;">E</b></b> Forms</font></center>
+                            <hr width="100%"> 
+                            <font size="3">Important links:-<br>
+              <b><code><a href="https://meet.google.com">Google Meet</a></code></b><br>
+              <b><code><a href="https://web.whatsapp.com">Watsapp</a></code></b><br>
+              <b><code><a href="https://www.youtube.com">Youtube</a></code></b><br><br><br>
+               <form><center>
+<label for="fname">First Name:</label><br>
+<input type="text" id="fname" name="fname">     <br>
+   <label for="lname">Last name:</label> <br>
+   <input type="text" id="lname" name="lname"><br><br><br>
+<input type="radio" id="male" name="gender" value="male">
+<label for=  "male">Male</label><br>
+<input type="radio" id="female" name="gender">
+<label for="female">Female</label><br><br><br>
+<input type="checkbox">
+<label>By car</label><br>
+<input type="checkbox">
+<label>By Bus</label><br>
+<input type="checkbox">
+<label>By Bike</label><br><br><br>
+  <input type="submit" value="Submit" formaction="file:///home/tm/Documents/tt2">
+</form></center>
+</html>
+
